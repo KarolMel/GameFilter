@@ -80,7 +80,7 @@ p {
   .skills {
     border: none;
     height: auto;
-    margin: 20px;
+    margin-top: 260px;
     width: 500px;
   }
 

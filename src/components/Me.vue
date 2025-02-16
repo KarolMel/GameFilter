@@ -44,7 +44,7 @@
   flex-direction: column;
   height: 80vh;
   justify-content: start;
-  margin-left: -5px;
+  margin: -5px 0 -60px;
   width: 420px;
 }
 

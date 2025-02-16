@@ -104,7 +104,7 @@ textarea {
   background: linear-gradient(0deg, rgba(4, 37, 131, 0.658) 18%, rgba(139, 112, 165, 0.356) 82%);
   border-radius: 20px;
   display: flex;
-  height: 50vh;
+  height: 400px;
   justify-content: space-evenly;
   width: 900px;
 }
